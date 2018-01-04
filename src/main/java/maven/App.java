@@ -1,6 +1,6 @@
 package maven;
 
-
+//thus is just comment
 public class App 
 {
     public static void main( String[] args )
