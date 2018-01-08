@@ -9,9 +9,8 @@ import junit.framework.TestSuite;
  */
 public class AppTest 
     extends TestCase
-{
-    
-    public AppTest( )
+{    
+    public void AppTest()
     {
      System.out.println("in test fie");
     }
